@@ -1,2 +1,2 @@
-# Digits-Classification-Project
-MNIST digits classification using Random Forest Classifier in Python
+Bathina Mounika   2000120
+Dasari  Purnima   2000089
